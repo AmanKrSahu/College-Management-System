@@ -9,8 +9,8 @@
     College-Management-System/
     ├── .gitignore
     ├── LICENSE
-    ├── main.c
     ├── README.md
+    ├── main.c
     ```
 
 2. Build
@@ -33,21 +33,24 @@
 
 1. Landing Page
 
-    - The `College Management System` provides two different hierarchy of modules namely `Admin Module` and `Student Module` depending on the level of rights a person needs to edit/view the system.
+    - This application provides two different hierarchy of modules namely `Admin Module` and `Student Module` depending on the level of rights a person needs to edit/view the system.
 
-    <!-- ![image](https://github.com/AmanKrSahu/College-Management-System/blob/main/Images/pic1.png?raw=true) -->
+    ![Image](https://github.com/AmanKrSahu/College-Management-System/assets/92854825/993c2ebc-6ea7-446f-8a3b-88c98a0d8665)
+
 
 2. Admin Module
 
     - The `Admin Module` grants a person the rights to edit as well as view the details of the students in respective options available.
 
-    <!-- ![image](https://github.com/AmanKrSahu/College-Management-System/blob/main/Images/pic2.png?raw=true) -->
+    ![Image](https://github.com/AmanKrSahu/College-Management-System/assets/92854825/1ca4c740-10ee-4165-a64c-44baeb51a114)
+
 
 3. Student Module
 
-    - Through `Student Module` a person can only view the details of the students in respective options available.
+    - The `Student Module` grants a person to only view the details of the students in respective options available.
 
-    <!-- ![image](https://github.com/AmanKrSahu/College-Management-System/blob/main/Images/pic3.png?raw=true) -->
+    ![Image](https://github.com/AmanKrSahu/College-Management-System/assets/92854825/0f484ebf-e906-4584-9872-a7cf366f1243)
+
 
 ## Tools and Languages:
 
