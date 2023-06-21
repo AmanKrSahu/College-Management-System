@@ -7,10 +7,7 @@
 
     ```
     College-Management-System/
-    ├── Images/
-    |   ├──pic1.png
-    |   ├──pic2.png
-    |   ├──pic3.png
+    ├── .gitignore
     ├── LICENSE
     ├── main.c
     ├── README.md
@@ -38,19 +35,19 @@
 
     - The `College Management System` provides two different hierarchy of modules namely `Admin Module` and `Student Module` depending on the level of rights a person needs to edit/view the system.
 
-    ![image](https://github.com/AmanKrSahu/College-Management-System/blob/main/Images/pic1.png?raw=true)
+    <!-- ![image](https://github.com/AmanKrSahu/College-Management-System/blob/main/Images/pic1.png?raw=true) -->
 
 2. Admin Module
 
     - The `Admin Module` grants a person the rights to edit as well as view the details of the students in respective options available.
 
-    ![image](https://github.com/AmanKrSahu/College-Management-System/blob/main/Images/pic2.png?raw=true)
+    <!-- ![image](https://github.com/AmanKrSahu/College-Management-System/blob/main/Images/pic2.png?raw=true) -->
 
 3. Student Module
 
     - Through `Student Module` a person can only view the details of the students in respective options available.
 
-    ![image](https://github.com/AmanKrSahu/College-Management-System/blob/main/Images/pic3.png?raw=true)
+    <!-- ![image](https://github.com/AmanKrSahu/College-Management-System/blob/main/Images/pic3.png?raw=true) -->
 
 ## Tools and Languages:
 
